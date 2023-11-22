@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f8;
+}
+
+.body-content {
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #f7f7f8;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 0px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #1e1e1e;
+    color: white;
+    font-size: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.stat_saison {
+    background-color: rgba(7, 108, 215, 0.884);
+    height: 60px;
+    color: white;
+}
+
+
